@@ -11,3 +11,8 @@
     }
   }
 </style>
+
+<script lang="ts">
+  const helloWorld: string = "hello world";
+  console.log(helloWorld);
+</script>
